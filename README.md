@@ -2,7 +2,7 @@
 
 ## Instructions
 
-1. Extract ```n1ctm04w.zip``` and run ```usbfmtpw.exe```
+1. Extract ```n1ctm07w.zip``` and run ```usbfmtpw.exe```
 2. Format the USB Drive
 3. Disconnect the USB Drive
 4. Extract ```u1u.zip``` (password for the zip is ```LenovoUone```) and run ```u1.exe``` 
